@@ -1,6 +1,8 @@
 # Criando-um-Dashboard-de-Vendas-com-Excel
 O objetivo é transformar dados brutos em informações visuais claras e úteis, permitindo uma análise eficaz do desempenho de vendas e a tomada de decisões baseadas em dados.
 
+![Print do dashboard](print-dashboard.png)
+
 ## INÍCIO
 A primeira etapa do dashboard foi entender o que gostaria de responder. Então, indiquei os campos da tabela ao agente de IA criado no Gemini e pedi que ele formulasse três questões de negócio e uma situation problem. A resposta foi a seguinte:
 
@@ -51,7 +53,8 @@ No gráfico, exclui as linhas horizontais, pintei de branco o eixo y, para dar d
 
 No gráfico, fiz o mesmo procedimento estilístico do anterior, para priorizar a visualização por tipo de assinatura. Inclusive, os gráficos 1 e 3 são dividem o mesmo controle de filtro.
 
-
-
+## RESULTADO
+1. **Versão Interativa (Google Sheets):** [Clique aqui para acessar o Dashboard Online](https://docs.google.com/spreadsheets/d/1JXF7humhDV2_EoVjQCxIXaccBEhqmaEyr8Ve87H9V7A/edit?gid=1765700558#gid=1765700558)
+2. **Arquivo Bruto (Excel):** [Baixar arquivo .xlsx](./dashboard_xbox_gamepass_subscription_sales DIO.xlsx)
 
 
