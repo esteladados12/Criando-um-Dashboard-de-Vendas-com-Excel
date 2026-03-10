@@ -55,6 +55,7 @@ No gráfico, fiz o mesmo procedimento estilístico do anterior, para priorizar a
 
 ## RESULTADO
 1. **Versão Interativa (Google Sheets):** [Clique aqui para acessar o Dashboard Online](https://docs.google.com/spreadsheets/d/1JXF7humhDV2_EoVjQCxIXaccBEhqmaEyr8Ve87H9V7A/edit?gid=1765700558#gid=1765700558)
-2. **Arquivo Bruto (Excel):** [Baixar arquivo .xlsx](./dashboard_xbox_gamepass_subscription_sales DIO.xlsx)
+2. **Arquivo Bruto (Excel):** [Baixar arquivo .xlsx](https://github.com/esteladados12/Criando-um-Dashboard-de-Vendas-com-Excel/dashboard_xbox_gamepass_subscription_salesDIO.xlsx)
+
 
 
